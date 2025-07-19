@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body { font-family: 'Pretendard GOV', Roboto, 'Noto Sans', sans-serif; }
